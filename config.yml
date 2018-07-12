@@ -1,0 +1,8 @@
+main:
+  username: username_goes_here
+  password: password_goes_here
+  token: token_goes_here
+backup:
+  username: another_username_goes_here
+  password: another_password_goes_here
+  token: another_token_goes_here
